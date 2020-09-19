@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Hi, my name is Amara.
+# Hi, my name is Amara.
 
 I am a full-time data analyst based in Raleigh, NC. I graduated with honors from NC State University where 
 I studied Statistics and ran Women's Track & Field. Upon graduating I accepted a position at MetLife's Global 
@@ -13,7 +13,7 @@ Analytics team where I measure and optimize and marketing campaigns across multi
 
 In my free time I enjoy photography, SUP paddle boarding, and anything that involves exercise!
 
-Proficiencies: R  /  Python  /  SQL  /  SAS  /  SPSS Modeler  /  MS Access  /  Excel
+*Proficiencies: R  /  Python  /  SQL  /  SAS  /  SPSS Modeler  /  MS Access  /  Excel*
 
 This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
 
