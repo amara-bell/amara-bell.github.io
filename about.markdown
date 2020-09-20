@@ -7,7 +7,7 @@ permalink: /about me/
 
 # Hi, my name is Amara.
 
-![Amara Bell](/pictures/IMG_3196.png){:class="img-responsive"}
+![Amara Bell](/pictures/IMG_3196.png){:height="200px" width="200px"}
 
 I am a full-time data analyst based in Raleigh, NC. I graduated with honors from NC State University where 
 I studied Statistics and ran Women's Track & Field. Upon graduating I accepted a position at MetLife's Global 
